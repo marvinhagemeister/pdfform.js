@@ -5,6 +5,7 @@
   "main": "pdfform.js",
   "browser": "dist/pdfform.minipdf.dist.js",
   "license": "Apache-2.0",
+  "typings": "typings/typescript.d.ts",
   "repository": {
     "type": "git",
     "url": "git://github.com/phihag/pdfform.js.git"
